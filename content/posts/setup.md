@@ -9,4 +9,5 @@ This is a test post to help get the site set up.
 
 $$E=mc^2$$
 
+It can have _italic_ or **bold** text it it!
 
