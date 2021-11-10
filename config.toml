@@ -2,4 +2,14 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 publishdir = 'docs/'
+theme = 'mainroad'
+
+[Author]
+  name = 'Graeme E. Smith'
+  bio  = 'Radar boffin embarking on a journy to live at the linux command line'
+
+[Params]
+  mathjax = true # Enable MathJax
+  mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path
+  mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
 
